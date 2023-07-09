@@ -5,6 +5,7 @@ activity_form.xml
 <img width="168" alt="image" src="https://github.com/Anisaidrsty/Uas_AnisaIndriani_DatabaseApiProject/assets/101643559/fb792b3d-47d1-4c2c-ad45-a31694277fa3">
 <br>
 activity_detail_handphone.xml
+<br>
 <img width="164" alt="image" src="https://github.com/Anisaidrsty/Uas_AnisaIndriani_DatabaseApiProject/assets/101643559/9b0e38b8-e305-42b8-8d00-7f0fe79bd51d">
 activity_form_handphone.xml
 <img width="165" alt="image" src="https://github.com/Anisaidrsty/Uas_AnisaIndriani_DatabaseApiProject/assets/101643559/6ff9be4e-62f0-4e5f-b847-f1de6f59f6a5">
