@@ -16,7 +16,7 @@ list_row.xml
 <br>
 <img width="179" alt="image" src="https://github.com/Anisaidrsty/Uas_AnisaIndriani_DatabaseApiProject/assets/101643559/be698809-4f18-49ed-9438-8483d1f89038">
 <br>
-3. menu
+2. menu
 <br>
 activity_main.xml
 <br>
